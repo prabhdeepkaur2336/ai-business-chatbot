@@ -1,0 +1,132 @@
+{
+  "business_name": "AI Solutions Co.",
+  "business_type": "E-commerce",
+  "tagline": "Automate Your Customer Support",
+  "contact": {
+    "email": "support@aisolutions.co",
+    "phone": "1800-123-4567",
+    "website": "https://aisolutions.example.com",
+    "address": "Mumbai, India"
+  },
+  
+  "services": [
+    {
+      "name": "Basic AI Chatbot",
+      "price": "Rs.2,500",
+      "delivery_time": "24 hours",
+      "features": [
+        "24/7 automated responses",
+        "WhatsApp integration",
+        "Basic product catalog",
+        "7-day free support"
+      ]
+    },
+    {
+      "name": "Advanced AI Assistant",
+      "price": "Rs.5,000",
+      "delivery_time": "3 days",
+      "features": [
+        "Everything in Basic",
+        "Order tracking system",
+        "Multi-language support",
+        "Analytics dashboard",
+        "30-day support"
+      ]
+    },
+    {
+      "name": "Enterprise AI Suite",
+      "price": "Rs.15,000",
+      "delivery_time": "1 week",
+      "features": [
+        "Everything in Advanced",
+        "Custom AI training",
+        "API integration",
+        "Priority support",
+        "Monthly updates"
+      ]
+    }
+  ],
+  
+  "products": [
+    {
+      "name": "Smartphone X",
+      "category": "Electronics",
+      "price": "Rs.24,999",
+      "features": ["6.5\" display", "128GB storage", "48MP camera"],
+      "stock": "In stock",
+      "delivery": "2-3 days"
+    },
+    {
+      "name": "Wireless Headphones",
+      "category": "Electronics",
+      "price": "Rs.2,499",
+      "features": ["Noise cancellation", "30hr battery", "Bluetooth 5.2"],
+      "stock": "In stock",
+      "delivery": "1-2 days"
+    },
+    {
+      "name": "Casual T-Shirt",
+      "category": "Clothing",
+      "price": "Rs.499",
+      "features": ["100% Cotton", "Multiple colors", "All sizes"],
+      "stock": "In stock",
+      "delivery": "3-5 days"
+    }
+  ],
+  
+  "faqs": [
+    {
+      "question": "What is your delivery time?",
+      "answer": "Standard delivery takes 3-5 business days. Express delivery (2 days) available for ₹99 extra."
+    },
+    {
+      "question": "What is your return policy?",
+      "answer": "We offer 30-day return policy. Items must be unused and in original packaging."
+    },
+    {
+      "question": "Do you offer bulk discounts?",
+      "answer": "Yes! Orders above ₹10,000 get 10% discount. Contact our sales team for custom quotes."
+    },
+    {
+      "question": "How can I track my order?",
+      "answer": "You'll receive tracking link via SMS/Email once your order ships."
+    },
+    {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept UPI, Credit/Debit Cards, Net Banking, and Cash on Delivery."
+    }
+  ],
+  
+  "business_hours": {
+    "weekdays": "9:00 AM - 9:00 PM",
+    "weekends": "10:00 AM - 8:00 PM",
+    "holidays": "Closed on national holidays"
+  },
+  
+  "social_media": {
+    "instagram": "@aisolutions",
+    "facebook": "/aisolutions",
+    "twitter": "@aisolutions"
+  },
+  
+  "testimonials": [
+    {
+      "name": "Rajesh Kumar",
+      "business": "Fashion Store",
+      "review": "Chatbot increased our sales by 30%. Best ₹2,500 ever spent!",
+      "rating": 5
+    },
+    {
+      "name": "Priya Sharma",
+      "business": "Restaurant Owner",
+      "review": "24/7 order taking. Reduced our workload by 20 hours/week.",
+      "rating": 5
+    },
+    {
+      "name": "Amit Patel",
+      "business": "Electronics Shop",
+      "review": "Customers love the instant responses. Highly recommended!",
+      "rating": 4
+    }
+  ]
+}
